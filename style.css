@@ -1,0 +1,65 @@
+* {
+    background-color: #33613f;
+}
+
+.white-keys {
+    width: max-content;
+    margin: auto;
+    top: 40vh;
+    position: relative;
+}
+
+.white-keys kbd {
+    display: inline-block;
+    border-radius: 3px;
+    padding: 1px 2px 0;
+    border: 1px solid black;
+    height: 150px;
+    width: 50px;
+    background-color: white;
+    text-align: center;
+    margin-left: -4px;
+    padding-top: 30%;
+}
+
+.black-keys {
+    width: max-content;
+    margin: auto;
+    top: 15vh;
+    left: -1.3vw;
+    position: relative;
+    background-color: unset;
+}
+
+.black-keys kbd {
+    display: inline-block;
+    border-radius: 3px;
+    color: white;
+    padding: 1px 2px 0;
+    border: 1px solid black;
+    height: 30px;
+    width: 20px;
+    background-color: black;
+    text-align: center;
+    padding-top: 32%;
+}
+
+.keyW {
+    margin-left: 53px;
+}
+
+.keyE {
+    margin-left: 25px;
+}
+
+.keyT {
+    margin-left: 83px;
+}
+
+.keyY {
+    margin-left: 26px;
+}
+
+.keyU {
+    margin-left: 26px;
+}
